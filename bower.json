@@ -1,0 +1,22 @@
+{
+  "name": "Roboto-Slab",
+  "authors": [
+    "ProjectSoft <projectsoft2009@yandex.ru>"
+  ],
+  "description": "Font Family Roboto Slab",
+  "main": "style.css",
+  "keywords": [
+    "@fontface",
+    "Roboto Slab",
+    "Roboto-Slab"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
