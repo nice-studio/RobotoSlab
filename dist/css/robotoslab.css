@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 100;
+  src: local('Roboto Slab Thin'), local('RobotoSlab-Thin'), url("dist/fonts/RobotoSlab-Thin.eot") format("embedded-opentype"), url("dist/fonts/RobotoSlab-Thin.otf") format("opentype"), url("dist/fonts/RobotoSlab-Thin.svg") format("svg"), url("dist/fonts/RobotoSlab-Thin.ttf") format("truetype"), url("dist/fonts/RobotoSlab-Thin.woff") format("woff"), url("dist/fonts/RobotoSlab-Thin.woff2") format("woff2");
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Roboto Slab Light'), local('RobotoSlab-Light'), url("dist/fonts/RobotoSlab-Light.eot") format("embedded-opentype"), url("dist/fonts/RobotoSlab-Light.otf") format("opentype"), url("dist/fonts/RobotoSlab-Light.svg") format("svg"), url("dist/fonts/RobotoSlab-Light.ttf") format("truetype"), url("dist/fonts/RobotoSlab-Light.woff") format("woff"), url("dist/fonts/RobotoSlab-Light.woff2") format("woff2");
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto Slab'), local('RobotoSlab-Regular'), url("dist/fonts/RobotoSlab-Regular.eot") format("embedded-opentype"), url("dist/fonts/RobotoSlab-Regular.otf") format("opentype"), url("dist/fonts/RobotoSlab-Regular.svg") format("svg"), url("dist/fonts/RobotoSlab-Regular.ttf") format("truetype"), url("dist/fonts/RobotoSlab-Regular.woff") format("woff"), url("dist/fonts/RobotoSlab-Regular.woff2") format("woff2");
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Roboto Slab Bold'), local('RobotoSlab-Bold'), url("dist/fonts/RobotoSlab-Bold.eot") format("embedded-opentype"), url("dist/fonts/RobotoSlab-Bold.otf") format("opentype"), url("dist/fonts/RobotoSlab-Bold.svg") format("svg"), url("dist/fonts/RobotoSlab-Bold.ttf") format("truetype"), url("dist/fonts/RobotoSlab-Bold.woff") format("woff"), url("dist/fonts/RobotoSlab-Bold.woff2") format("woff2");
+}
