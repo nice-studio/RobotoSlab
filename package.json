@@ -15,6 +15,7 @@
 	"bugs": {
 		"url": "https://github.com/nice-studio/RobotoSlab/issues"
 	},
+	"githubpage": "https://nice-studio.github.io/RobotoSlab/",
 	"homepage": "https://github.com/nice-studio/RobotoSlab#readme",
 	"devDependencies": {
 		"grunt": "^1.0.1",
